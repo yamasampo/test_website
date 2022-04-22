@@ -22,7 +22,7 @@ enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
 paginate = 6
-theme="flex-bp-hugo-cv"
+theme="PaperMod"
 
 [sitemap]
     changefreq = "weekly"
