@@ -6,7 +6,7 @@ theme: PaperMod
 canonifyurls: true
 publishDir: "docs"
 
-
+disableFingerprinting: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
